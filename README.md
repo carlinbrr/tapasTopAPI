@@ -1,9 +1,12 @@
 # TapasTop API
-Se trata de una API REST para el proyecto de Ingeniería de Sofware II. La documentación está en el archivo "2223_Enunciado practica.pdf"
+Se trata de una API REST para el proyecto de Ingeniería de Sofware II. La documentación está en el archivo "2223_Enunciado practica.pdf".
+
+## Tecnologías
+Las principales herramientas que se han utilizado para el desarrollo del proyecto han sido Java como lenguaje de programación, Spring como framework y MySQL como servidor para la base de datos. Por otro lado, también se han utilizado otras tecnologías como Spring JPA, para el manejo de la base de datos y Spring Security, junto JWT (Json Web Token), para proporcionar seguridad a la API.
 
 ## Endpoints
 
-### Registrar
+### Registro
 * **URI**: host/api/registrar 
 * **Cabeceras**: Content Type: multipart/form-data, Accept: application/json
 * **Método**: POST
