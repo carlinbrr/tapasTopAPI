@@ -1,5 +1,5 @@
 # TapasTop API
-Se trata de una API REST para el proyecto de Ingeniería de Sofware II. La documentación está en el archivo "enunciado.pdf"
+Se trata de una API REST para el proyecto de Ingeniería de Sofware II. La documentación está en el archivo "2223_Enunciado practica.pdf"
 
 ## Endpoints
 
